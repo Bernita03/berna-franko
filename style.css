@@ -71,7 +71,7 @@ form .txt_field {
 .txt_field input:focus ~ label,
 .txt_field input:valid ~ label {
   top: -5px;
-  color: blue;
+  color:red;
 }
 .txt_field input:focus ~ span::before,
 .txt_field input:valid ~ span::before {
