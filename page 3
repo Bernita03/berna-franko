@@ -4,32 +4,27 @@
 <head>
   <meta charset="utf-8"
   <title></title>
-  <link rel="stylesheet" href="style/main.css"
+  <link rel="stylesheet" href="style/main2.css"
 </head>
 
 <body>
+
   <div class="center">
     <img
      src="img/XploreTV.jpg"
      alt='logo' 
          class="img-center"/>
+    
+   
     <!--<h1>Login</h1>-->
     <form method="post"> 
       <div class="txt_field">
         <input type="text" required>
         <span></span>
-        <label>E-Mail Adress or Username</label>
+        <label>Code</label>
     </div>  
-
-        <div class="txt_field">
-          <input type="password" required>
-          <span></span>
-          <label>Password</label>
-      </div>
-      
-    <div class="pass">Forgot Password?</div>
-    <input type="submit" value="Login">
-      <input type="submit1" value="Signup Now">
+   
+      <input type="submit1" value="Authenticate">
    <!-- <div class="signup_link">Not a member? <a href="#">Signup now</a></div> -->
     </form>
   </div>

@@ -1,7 +1,10 @@
+@import url(//db.onlinewebfonts.com/c/8e4b8cb6c9ef503769bf424ac4162d63?family=A1+Sans);
+url(//db.onlinewebfonts.com/c/a46184f8d7484ccf6bfdf17ab89e2e67?family=A1+Serif);
+
 body {
   margin: 0;
   padding: 0;
-  font-family: Sans;
+  font-family: A1 Sans;
   background: #efefef;
   height: 100vh;
   overflow: hidden;
@@ -89,7 +92,7 @@ form .txt_field {
 }
 
 input[type="submit"] {
-  font-family: Serif;
+  font-family: A1 Serif;
   width: 100%;
   height: 40px;
   background: red;
@@ -109,7 +112,7 @@ input[type="submit"]:hover {
 }
 
 input[type="submit1"] {
-  font-family: Serif;
+  font-family: A1 Serif;
   width: 99%;
   height: 40px;
   background: #D3D3D3;
